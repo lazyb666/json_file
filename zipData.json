@@ -1,0 +1,215 @@
+{
+  "ZipNode": {
+    "$": {
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "Name": "Охладитель водоводяной 40В.03.000",
+      "LastDate": "2019-07-16T15:52:16.4510497+03:00",
+      "ProductStartDate": "0001-01-01T00:00:00"
+    },
+    "ZipParts": {
+      "ZipPart": [
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "5819f80b-c3d2-4fed-bfe4-59d316c2768c"
+          },
+          "Name": "Заглушка",
+          "Code": "7-2Д42.168.46",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "0.016",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "ebf48047-0257-4af6-af2a-3745e98d1a7a",
+                "Storing": "Base",
+                "Count": "144",
+                "CountByBulletin": "144",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "CatalogInfos": "",
+          "Children": ""
+        },
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "98ee13c9-46b3-4e00-812d-09e9619e68c3"
+          },
+          "Name": "Кольцо сальника",
+          "Code": "40М.008-1-ИРП-1287 ТУ38.1051959-90",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "0.26",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "820fe456-0d2d-4115-9ffa-813da2a82bce",
+                "Storing": "Base",
+                "Count": "4",
+                "CountByBulletin": "4",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "CatalogInfos": "",
+          "Children": ""
+        },
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "51cef0b6-8b8c-4025-bd52-2d45e14a2b89"
+          },
+          "Name": "Манжета",
+          "Code": "40В.03.092-1-ИРП-1287 ТУ38.1051959-90",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "0.07",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "23f54448-647c-473b-aca4-94fa31cea856",
+                "Storing": "Base",
+                "Count": "4",
+                "CountByBulletin": "4",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "Comment": "Допускается замена на 40В.03.092",
+          "CatalogInfos": "",
+          "Children": ""
+        },
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "13bbb57a-1654-463b-a4c0-ffe39a240b33"
+          },
+          "Name": "Прокладка",
+          "Code": "40М.009",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "0.23",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "e7eb7d07-f192-4eeb-b04d-9ac190ff54a8",
+                "Storing": "Base",
+                "Count": "4",
+                "CountByBulletin": "4",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "CatalogInfos": "",
+          "Children": ""
+        },
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "f776e6f1-44f0-4d6f-bcfc-0530a2d4d6b9"
+          },
+          "Name": "Прокладка",
+          "Code": "40М.011",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "0.18",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "528220c4-b2a2-42c5-a706-ca6441b92ed8",
+                "Storing": "Base",
+                "Count": "2",
+                "CountByBulletin": "2",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "CatalogInfos": "",
+          "Children": ""
+        },
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "c69b2f48-532f-4c33-aec4-a8e2f6cc7f65"
+          },
+          "Name": "Протектор",
+          "Code": "24.06.14.070-03",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "1.2",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "cb84d1df-26ae-4a19-8cbd-e34f7f231f69",
+                "Storing": "Base",
+                "Count": "16",
+                "CountByBulletin": "16",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "CatalogInfos": "",
+          "Children": ""
+        },
+        {
+          "$": {
+            "Bulletin": "06363-908-004ЗИ",
+            "Id": "3cfb4df8-adee-4c32-84c9-aee2d0818324"
+          },
+          "Name": "Шплинт 2,5x16.05",
+          "Code": "ГОСТ 397-79",
+          "ZipType": "Reserve",
+          "CountInProduct": "0",
+          "Units": "piece",
+          "Mass": "0.0005",
+          "Placements": {
+            "Placement": {
+              "$": {
+                "Id": "54c15ef4-f51d-4d4c-b653-1327288b32c7",
+                "Storing": "Base",
+                "Count": "40",
+                "CountByBulletin": "40",
+                "BoxId": "Б5М-45"
+              }
+            }
+          },
+          "CatalogInfos": "",
+          "Children": ""
+        }
+      ]
+    },
+    "Outlays": "",
+    "Refills": "",
+    "OrderList": "",
+    "OrderZipList": "",
+    "CommonPlacement": {
+      "$": {
+        "Id": "00000000-0000-0000-0000-000000000000",
+        "Storing": "OnBoard",
+        "Count": "0",
+        "CountByBulletin": "0",
+        "CombatUnit": "К5",
+        "Format": "{отсек}-{боевая_часть}{тип}-{номер}"
+      }
+    },
+    "CommonBasePlacement": {
+      "$": {
+        "Id": "00000000-0000-0000-0000-000000000000",
+        "Storing": "Base",
+        "Count": "0",
+        "CountByBulletin": "0",
+        "CombatUnit": "Б5",
+        "Format": "{боевая_часть}{тип}-{номер}"
+      }
+    }
+  }
+}
